@@ -4,14 +4,14 @@ plugins {
 
 android {
     namespace 'com.kevintesar.qrcodetoclipboard'
-    compileSdkVersion 35
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.kevintesar.qrcodetoclipboard"
         minSdkVersion 19
-        targetSdkVersion 33
-        versionCode 101
-        versionName "1.0.1"
+        targetSdkVersion 35
+        versionCode 104
+        versionName "1.0.4"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
